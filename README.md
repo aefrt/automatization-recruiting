@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Автоматизация подбора персонала 
 
 ### Результаты работы
@@ -27,3 +28,26 @@
 2. `git push origin main`
 
 3. Maybe: `git pull origin main` (если были внесены изменения на GitHub, и теперь их надо скачать удаленно)
+=======
+### Как настроить работу с `git`?
+
+1. [Как подключиться к репозиторию](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github):
+- `git add .`
+- `git commit -m "First commit"`
+- `git remote add origin https://github.com/aefrt/automatization-recruiting.git`
+- `git remote -v`
+- `git push origin master`
+
+2. Как локально сохранить последнюю версию ветки?
+
+- `git pull origin master`
+
+3. Как загрузить изменения в GitHub?
+
+- `git commit -m "Second commit"`
+- `git push origin master`
+
+3. Как перейти в другую ветку?
+
+- `git branch -M main`
+>>>>>>> c47618cff642806fb327f8a3e67cd7065cabf885
