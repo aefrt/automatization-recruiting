@@ -22,8 +22,8 @@
 
 ### Как работать с `git`?
 
-`git commit -m "Message"`
+1. `git commit -m "Message"i -a` ('-a', чтобы добавить все изменения)
 
-`git push origin main`
+2. `git push origin main`
 
-Maybe: `git pull origin main`
+3. Maybe: `git pull origin main` (если были внесены изменения на GitHub, и теперь их надо скачать удаленно)
