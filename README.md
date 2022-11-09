@@ -6,6 +6,10 @@
 - [Таблица с запросами](https://github.com/aefrt/automatization-recruiting/blob/main/resumes_all.csv)
 - [Таблица с признаками](https://github.com/aefrt/automatization-recruiting/blob/main/resumes_features.csv)
 
+### О работе
+
+Проект на стыке текстовой и HR-аналитики.
+
 ### Прогресс
 
 **Что сделано к 9.11:**
