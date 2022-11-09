@@ -15,3 +15,7 @@
 
 - `git commit -m "Second commit"`
 - `git push origin master`
+
+3. Как перейти в другую ветку?
+
+- `git branch -M main`
