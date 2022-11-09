@@ -2,9 +2,9 @@
 
 ### Результаты работы
 
-- [Ноутбук]()
-- [Таблица с запросами]
-- [Таблица с признаками]
+- [Ноутбук](https://github.com/aefrt/automatization-recruiting/blob/main/scraping.ipynb)
+- [Таблица с запросами](https://github.com/aefrt/automatization-recruiting/blob/main/resumes_all.csv)
+- [Таблица с признаками](https://github.com/aefrt/automatization-recruiting/blob/main/resumes_features.csv)
 
 ### Прогресс
 
