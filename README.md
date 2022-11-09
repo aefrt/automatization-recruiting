@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 # Автоматизация подбора персонала 
 
 ### Результаты работы
 
-- [Ноутбук](https://github.com/aefrt/automatization-recruiting/blob/main/scraping.ipynb)
-- [Таблица с запросами](https://github.com/aefrt/automatization-recruiting/blob/main/resumes_all.csv)
-- [Таблица с признаками](https://github.com/aefrt/automatization-recruiting/blob/main/resumes_features.csv)
+- [Ноутбук]()
+- [Таблица с запросами]
+- [Таблица с признаками]
 
 ### Прогресс
 
@@ -28,26 +27,3 @@
 2. `git push origin main`
 
 3. Maybe: `git pull origin main` (если были внесены изменения на GitHub, и теперь их надо скачать удаленно)
-=======
-### Как настроить работу с `git`?
-
-1. [Как подключиться к репозиторию](https://docs.github.com/en/get-started/importing-your-projects-to-github/importing-source-code-to-github/adding-locally-hosted-code-to-github):
-- `git add .`
-- `git commit -m "First commit"`
-- `git remote add origin https://github.com/aefrt/automatization-recruiting.git`
-- `git remote -v`
-- `git push origin master`
-
-2. Как локально сохранить последнюю версию ветки?
-
-- `git pull origin master`
-
-3. Как загрузить изменения в GitHub?
-
-- `git commit -m "Second commit"`
-- `git push origin master`
-
-3. Как перейти в другую ветку?
-
-- `git branch -M main`
->>>>>>> c47618cff642806fb327f8a3e67cd7065cabf885
