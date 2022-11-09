@@ -22,7 +22,7 @@
 
 ### Как работать с `git`?
 
-1. `git commit -m "Message"i -a` ('-a', чтобы добавить все изменения)
+1. `git commit -m "Message" -a` ('-a', чтобы добавить все изменения)
 
 2. `git push origin main`
 
