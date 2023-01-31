@@ -2,7 +2,8 @@
 
 ### Результаты работы
 
-- [Ноутбук](https://github.com/aefrt/automatization-recruiting/blob/main/scraping.ipynb)
+- [Ноутбук 1](https://github.com/aefrt/automatization-recruiting/blob/main/scraping.ipynb)
+- [Ноутбук 2](https://github.com/aefrt/automatization-recruiting/blob/main/analysis.ipynb)
 - [Таблица с запросами](https://github.com/aefrt/automatization-recruiting/blob/main/resumes_all.csv)
 - [Таблица с признаками](https://github.com/aefrt/automatization-recruiting/blob/main/resumes_features.csv)
 
