@@ -16,6 +16,10 @@
 - `git commit -m "Second commit"`
 - `git push origin master`
 
-3. Как перейти в другую ветку?
+4. Как перейти в другую ветку?
 
 - `git branch -M main`
+
+5. Что делать, если все сломалось?
+
+- `git reset --hard origin/master`
