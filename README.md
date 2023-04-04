@@ -3,7 +3,8 @@
 ### Результаты работы
 
 - [Ноутбук 1, scrape](https://github.com/aefrt/automatization-recruiting/blob/main/scraping.ipynb)
-- [Ноутбук 2, analyse](https://github.com/aefrt/automatization-recruiting/blob/main/analysis.ipynb)
+- [Ноутбук 3, analyse](https://github.com/aefrt/automatization-recruiting/blob/main/analysis.ipynb)
+- [Ноутбук 2, preprocessing](https://github.com/aefrt/automatization-recruiting/blob/main/preprocessing.ipynb)
 - [Таблица с запросами](https://github.com/aefrt/automatization-recruiting/blob/main/resumes_all.csv)
 - [Таблица с признаками](https://github.com/aefrt/automatization-recruiting/blob/main/resumes_features.csv)
 - [Презентация](https://github.com/aefrt/automatization-recruiting/blob/main/%D0%B2%D0%BA%D1%80%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B0.pdf)

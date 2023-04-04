@@ -2,3 +2,9 @@ chromedriver
 backup
 .ipynb_checkpoints
 .DS_Store
+resumes_features 16-11 markup.csv
+resumes_features 16-11 markup.numbers
+word2vec.model
+word2vec.model.syn1neg.npy
+word2vec.model.wv.vectors.npy
+Tri-cluster_Приложение_3.ipynb
