@@ -5,15 +5,18 @@
 - [Ноутбук 1, scrape](https://github.com/aefrt/automatization-recruiting/blob/main/scraping.ipynb)
 - [Ноутбук 2, preprocessing](https://github.com/aefrt/automatization-recruiting/blob/main/preprocessing.ipynb)
 - [Ноутбук 3, analyse](https://github.com/aefrt/automatization-recruiting/blob/main/analysis.ipynb)
-- [Таблица с запросами](https://github.com/aefrt/automatization-recruiting/blob/main/resumes_all.csv)
-- [Таблица с признаками](https://github.com/aefrt/automatization-recruiting/blob/main/resumes_features.csv)
-- [Презентация](https://github.com/aefrt/automatization-recruiting/blob/main/%D0%B2%D0%BA%D1%80%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B0.pdf)
+- [Презентация, март 2023](https://github.com/aefrt/automatization-recruiting/blob/main/%D0%B2%D0%BA%D1%80%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B0.pdf)
+- [[В процессе] Презентация, июнь 2023]()
 
 ### О работе
 
-Проект на стыке текстовой и HR-аналитики.
+В HR-отделах крупных компаний возникает задача автоматизации части обязанностей HR-менеджеров. Существует огромное число систем для автоматизации этих обязанностей на основе тематического моделирования, машинного обучения с учителем. В данной работе будет предпринята попытка улучшить существующие решения: для большей эффективности моделей классификации будет обучена модель semi-supervised классификации, а при работе с текстом в качестве токенов будут использованы не слова в нормальной форме, а триграммы таких слов. Также будет рассмотрена задача сегментации, при интерпретации сегментов будет рассмотрен подход на основе топологического анализа данных, после чего будут исследованы возможности для долгосрочного планирования с применением построенной модели классификации к сегментам. 
 
 ### Прогресс 
+
+**12.05:**
+
+- Отправил работу на проверку
 
 **10.05:**
 
