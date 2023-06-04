@@ -2,11 +2,10 @@
 
 ### Результаты работы
 
-- [Ноутбук 1, scrape](https://github.com/aefrt/automatization-recruiting/blob/main/scraping.ipynb)
-- [Ноутбук 2, preprocessing](https://github.com/aefrt/automatization-recruiting/blob/main/preprocessing.ipynb)
-- [Ноутбук 3, analyse](https://github.com/aefrt/automatization-recruiting/blob/main/analysis.ipynb)
-- [Презентация, март 2023](https://github.com/aefrt/automatization-recruiting/blob/main/%D0%B2%D0%BA%D1%80%20%D0%BF%D1%80%D0%B5%D0%B7%D0%B0.pdf)
-- [Презентация, июнь 2023](преза.pdf)
+- [Ноутбук 1, скрейпинг](https://github.com/aefrt/automatization-recruiting/blob/main/scraping.ipynb)
+- [Ноутбук 2, предобработка](https://github.com/aefrt/automatization-recruiting/blob/main/preprocessing.ipynb)
+- [Ноутбук 3, анализ данных](https://github.com/aefrt/automatization-recruiting/blob/main/analysis.ipynb)
+- [Презентация](преза.pdf)
 
 ### О работе
 
